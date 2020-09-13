@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "ES5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "allowJs": true,
+		"outFile": "patterns.js"
+    },
+	"include": ["src"]
+}
