@@ -15,3 +15,14 @@
 [Proxy]()
 
 ### Behavioral Patterns
+[Chain of Resp]()
+[Command]()
+[Interpreter]()
+[Iterator]()
+[Mediator]()
+[Memento]()
+[Observer]()
+[State]()
+[Strategy]()
+[Template]()
+[Visitor]()
