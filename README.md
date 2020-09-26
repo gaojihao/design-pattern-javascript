@@ -8,13 +8,13 @@
 * [Prototype](./src/prototype)
 
 ### Structural Patterns
-* [Adapter]()
-* [Bridge]()
-* [Composite]()
-* [Decorator]()
-* [Facade]()
-* [Flyweight]()
-* [Proxy]()
+* [Adapter](./src/adapter)
+* [Bridge](./src/bridge)
+* [Composite](./src/composite)
+* [Decorator](./src/decorator)
+* [Facade](./src/facade)
+* [Flyweight](./src/flyweight)
+* [Proxy](./src/proxy)
 
 ### Behavioral Patterns
 * [Chain of Resp]()
